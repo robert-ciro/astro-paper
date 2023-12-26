@@ -1,36 +1,21 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+I'm Robert, a seasoned professional hailing from the vibrant city of [Rotterdam](https://www.google.com/search?q=rotterdam&rlz=1C1GCEJ_enNL1065NL1065&oq=rotterdam&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyBwgBEC4YgAQyBggCEEUYPTIGCAMQRRg8MgYIBBBFGDwyBggFEEUYQTIGCAYQRRhBMgYIBxBFGEHSAQgxMDc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8), Netherlands. With a decade immersed in the dynamic realm of technology, my journey began by crafting code with PHP and jQuery. However, my insatiable curiosity and commitment to staying at the forefront of innovation led me to pivot towards Microsoft Technologies and the latest web advancements.
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/about-me.png" class="sm:w-1/2 mx-auto rounded-md" alt="about me">
 </div>
 
-## Tech Stack
+Residing in the picturesque city of Rotterdam, I've cultivated a wealth of experience, honing my skills in cutting-edge technologies. My mission is simple yet profound: to tackle challenges head-on and contribute meaningfully to problem-solving.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+In essence, my goal is to create things that transcend the ordinary and make a tangible difference. Join me on this journey of innovation, where passion meets expertise, and together, we'll shape a future where technology makes a meaningful impact.
 
-## Features
+## Some facts about me:
 
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- ❤ I love to discover new wonderful places around the world as much as I love to explore new technologies and techniques.
+- 😄 I start my day with “Eggs and Toast".
+- 🌱 I am constantly learning new technologies.
+- ⚡ I live by the motto: "I was born to make mistakes, not to fake perfection.".
